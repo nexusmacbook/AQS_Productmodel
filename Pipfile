@@ -8,6 +8,8 @@ metatrader5 = "*"
 requests = "*"
 pandas = "*"
 inquirer = "*"
+pyqt5 = "*"
+pyside6 = "*"
 
 [dev-packages]
 
